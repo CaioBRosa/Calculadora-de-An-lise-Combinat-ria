@@ -24,10 +24,9 @@ int main() {
             printf("Entre com o valor de n: ");
             scanf("%li",&n);
 
-            aux = Fatorial(n);
             P = Fatorial(n);
 
-            if(n1 < 0){
+            if(n < 0){
                 printf("Dados Incorreto!");
             }else{
                 printf("Permutacao Simples: P(%li) = %li\n\n", n, P);
