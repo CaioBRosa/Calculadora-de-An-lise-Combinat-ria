@@ -1,0 +1,3 @@
+/home/rose/CLionProjects/Calculadora_Analise_Combinatoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rose/CLionProjects/Calculadora_Analise_Combinatoria/cmake-build-debug/CMakeFiles/Calculadora_Analise_Combinatoria.dir
+/home/rose/CLionProjects/Calculadora_Analise_Combinatoria/cmake-build-debug/CMakeFiles/edit_cache.dir

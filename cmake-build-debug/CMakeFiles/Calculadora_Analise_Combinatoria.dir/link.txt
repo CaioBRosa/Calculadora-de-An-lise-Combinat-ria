@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Calculadora_Analise_Combinatoria.dir/main.c.o  -o Calculadora_Analise_Combinatoria 
