@@ -7,11 +7,6 @@ int main() {
     long n, k, aux;
     long A, C, P;
 
-    system("color 9e");
-    system("title Análise Combinatória");
-
-    printf("Software que calcula Arranjo,Combinacao e Permutacao\n\n");
-
     do{
         //menu
         printf("menu:\n 1-permutacao simples\n 2-arranjo simples\n 3-combinacao simples\n 4-Sair\n");
